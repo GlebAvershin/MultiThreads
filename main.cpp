@@ -272,3 +272,5 @@ int main(int argc, char** argv) {
 
     return 0;
 }
+
+// ./main -i /home/user1/Images/ -o /home/user1/output -t 2 -c 2 -b 2
